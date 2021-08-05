@@ -1,2 +1,2 @@
 # Causal-Modeling
-This repository contains notebooks covering various topics of Causal Modeling for pursuing a PHD in Causal Inference
+This repository contains the pdf notes covering various topics of causal inference and all the (Python) notebooks for clarification and exemplification of the notes. The notebooks can be accessed directly via de pdf (but the pdf should be downloaded). In general there are two pdf files: one Layman's presentation with a very intuitive entrance to causal inference where most mathematical formulas are omitted and one technical approach with detailed explanations.  
