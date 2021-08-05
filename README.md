@@ -1,2 +1,2 @@
 # Causal-Modeling
-Causal Modeling for pursuing a PHD in Causal Inference
+This repository contains notebooks covering various topics of Causal Modeling for pursuing a PHD in Causal Inference
